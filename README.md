@@ -12,7 +12,7 @@
 
 ## General Information
 - Lending company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. The company can utilize this knowledge for its portfolio and risk assessment.
-- This is an assignment provided by IIT B Upgrad program, will give give an idea about how real business problems are solved using EDA. In this case study, apart from applying the techniques i have learnt in EDA, I have also developed a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
+- This is an assignment provided by IIT B Upgrad program, It will give an idea about how real business problems are solved using EDA. In this case study, apart from applying the techniques i have learnt in EDA, I have also developed a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
 - The dataset is obtained from lending club portal. It contains the complete loan data for all loans issued through the time period 2007 t0 2011.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
